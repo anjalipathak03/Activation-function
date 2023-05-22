@@ -29,6 +29,7 @@ Uses : Usually used in output layer of a binary classification, where result is 
 
 3. Tanh Function 
 Equation :
+
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/ec1eb92d-d168-4f47-a9c7-e0013cd20c58)
 
 Value Range :- -1 to +1
