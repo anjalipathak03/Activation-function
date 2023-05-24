@@ -32,6 +32,9 @@ Equation :
 
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/ec1eb92d-d168-4f47-a9c7-e0013cd20c58)
 
+![image](https://github.com/03anjali/Activation-function/assets/91782986/3c0193af-4de7-4638-ad25-767d231b7f50)
+
+
 Value Range :- -1 to +1
 Nature :- non-linear
 Uses :- Usually used in hidden layers of a neural network as it’s values lies between -1 to 1.
