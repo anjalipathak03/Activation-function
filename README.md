@@ -15,6 +15,7 @@ The activation function does the non-linear transformation to the input making i
 1. Linear Function
 Equation : Linear function has the equation similar to as of a straight line i.e. `y = x`
 Range : -inf to +inf
+![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/0aa2f2d9-5821-4c23-a6f6-87526fdd7654)
 
 
 2. Sigmoid Function
@@ -25,6 +26,7 @@ Equation :
 
 Value Range : 0 to 1
 Uses : Usually used in output layer of a binary classification, where result is either 0 or 1.
+![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/be4c3f43-b17a-484d-978f-b45087faa23e)
 
 
 3. Tanh Function 
@@ -47,6 +49,9 @@ Equation :
 It gives an output x if x is positive and 0 otherwise.
 
 Value Range :- [0, inf)
+
+![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/2077295a-f7e5-4d8b-bd32-f4e16b129afc)
+
 
 5. Softmax Function
 The softmax function is also a type of sigmoid function but is handy when we are trying to handle multi- class classification problems.
